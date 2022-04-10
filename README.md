@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ris-2107
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Web Development using Mern Stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
